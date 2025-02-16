@@ -1,4 +1,4 @@
-# Bonnekes Dashboard
+# BonnekesDashboard
 
 Een Next.js dashboard voor het beheren van bonnen, gebruikers en rapportages. Dit project gebruikt Supabase voor authenticatie en gegevensbeheer, en `recharts` voor grafieken.
 
@@ -6,7 +6,7 @@ Een Next.js dashboard voor het beheren van bonnen, gebruikers en rapportages. Di
 
 1. **Kloon de repository:**
    ```sh
-   git clone https://github.com/YoungGlobal/bonnekes-dashboard.git
+   git clone https://github.com/YoungGlobal/BonnekesDashboard.git
    cd bonnekes-dashboard
    ```
 
